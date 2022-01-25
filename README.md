@@ -2,8 +2,7 @@
 
 
 <div align="center">
-<h3 align="center">Zadanie 1 PFSwChO</h3>
-<h3 align="center">Yevhenii Tsyliurnyk</h3>
+<h3 align="center">Realizacja zadania nr 1 w ramach laboratorium PFSwChO - Yevhenii Tsyliurnyk</h3>
 
 </div>
 
