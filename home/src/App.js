@@ -5,8 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="/logo.png" className="App-logo" alt="logo" />
-        <p> Zadanie 1 z laboratorium PFSwwChO </p>
-        <p> Yevhenii Tsyliurnyk </p>
+        <p> Realizacja zadania nr 1 w ramach laboratorium PFSwChO - Yevhenii Tsyliurnyk </p>
         <div className="menu-items">
           <a href="/"> Strona glowna </a>
           <a href="/calculator"> Kalkulator</a>
